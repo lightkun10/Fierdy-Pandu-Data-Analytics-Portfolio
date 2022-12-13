@@ -42,4 +42,4 @@ This is a repository to showcase skills, share projects and track my progress in
 <br>**Description:** 
 <br>**Skills:** Standard Query Syntax, SQL Aggregate Functions, SQL Joins, SQL Data Type, SQL Date Format, SQL Window Function.
 <br>**Code Examples:**
-[`Get the number of unique users, number of orders, and total sale price status and month`](https://docs.google.com/presentation/d/1PVNcxc0JzbX_6cmbycSERKBRtDSuea91Ihg5GvzHqmk/edit?usp=sharing)
+- [`Get the number of unique users, number of orders, and total sale price status and month`](https://docs.google.com/presentation/d/1PVNcxc0JzbX_6cmbycSERKBRtDSuea91Ihg5GvzHqmk/edit?usp=sharing)
