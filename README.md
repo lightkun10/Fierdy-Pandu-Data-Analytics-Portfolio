@@ -57,7 +57,7 @@ This is a repository to showcase skills, share projects and track my progress in
 #### Mutual Fund Investment Data Analysis
 <!-- NANTI KERJAIN YG ADVANCE BUAT UPGRADE YANG INI OCEEEEE -->
 **Code:** [`Mutual Fund Dataset`](https://github.com/lightkun10/Mutual-Fund-Investment-Analysis/blob/main/w8.ipynb)    
-**Deck:** [`Mutual Fund Sheet`](https://docs.google.com/presentation/d/1kPz4qbXkzFB17iBCI63AJnUn6uXv3Z87UOyxzPFjjkQ/edit?usp=sharing)      
+**Deck:** [`Mutual Fund Sheet`](https://docs.google.com/presentation/d/1xCjm0F3EpEwsrlDzEGjYj0hP8UBh4bnE6n6rcnKDAuM/edit?usp=share_link)      
 **Description:** Analyzing the current type of mutual bonds data to run a thematic communication campaign for the upcoming government bond investment product with segmenting campaign for each types of consumer.                      
 **Skills:** data cleaning, data preparation, data communication, data aggregation, exploratory data analysis, cluster analysis                 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.                  
