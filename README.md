@@ -69,7 +69,10 @@ This is a repository to showcase skills, share projects and track my progress in
 #### Airbnb Singapore Listing Report Data Analysis
 **Visualization - Tableau:** [`Airbnb Singapore Vis`](https://public.tableau.com/views/AirbnbSingaporeListingReport/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)    
 **Visualization - Looker Data Studio:** [`Airbnb Singapore Vis`](https://datastudio.google.com/reporting/eeed99b1-ecf8-4c86-8703-3315fe047c9d)    
-**Skills:** Connect and combine/ join datasets, Data formatting, Visualization, Calculated field, Interactive Dashboard       
+**Description:** Tableau Public dashboard consisted of: Number of Listings, Number of Hosts, Number of Listings per neighborhood group and neighborhood, Top 10 Listings based on total reviews, overall average number of reviews, grouping number of listing per group based on number of listings per host.     
+**Skills:** Connect and combine/ join datasets, Data formatting, Visualization, Calculated field, Interactive Dashboard    
+**Technology:** Tableau.    
+**Results:** created an analytical dashboard to support daily activities of a company involved in apartments renting business. 
 
 <!-- KELARIN LAGI YANG INI PLEASEEEEEEEEEEEEEEEEEEE -->
 #### COVID-19 World Vaccination Progress Data Analysis 
