@@ -13,3 +13,16 @@ This is a repository to showcase skills, share projects and track my progress in
 <br>
 
 
+## Projects
+
+### Spreadsheet/ Excel Skill sets:
+* Data Cleaning;
+* Query Table;
+* Pivot Table;
+* Vlookup;
+* Descriptive Statistics;
+* Data Visualization;
+* Gathering Insights;
+* A/B Testing
+#### Deck :
+[Data Cleaning and Processing in Spreadsheet](https://drive.google.com/file/d/1pL3b73PEav3U2CWDvTMt3FXDERvllViS/view?usp=sharing)
