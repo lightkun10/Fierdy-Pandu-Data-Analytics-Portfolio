@@ -54,3 +54,5 @@ This is a repository to showcase skills, share projects and track my progress in
 **Results:** the slide deck with SQL analysis and recommendations on how to improve the cost of production, better inventory planning and management. 
 
 ### Python <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+#### Mutual Fund Investment Data Analysis
+**Code:** [`Mutual Fund `](https://github.com/lightkun10/Mutual-Fund-Investment-Analysis/blob/main/w8.ipynb)    
