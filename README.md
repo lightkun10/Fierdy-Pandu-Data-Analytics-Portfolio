@@ -43,3 +43,4 @@ This is a repository to showcase skills, share projects and track my progress in
 <br>**Skills:** Standard Query Syntax, SQL Aggregate Functions, SQL Joins, SQL Data Type, SQL Date Format, SQL Window Function.
 <br>**Code Examples:**
 - [`Get the number of unique users, number of orders, and total sale price status and month`](https://docs.google.com/presentation/d/1PVNcxc0JzbX_6cmbycSERKBRtDSuea91Ihg5GvzHqmk/edit?usp=sharing)
+- [`Get frequencies, average order value and total number of unique users where status is complete grouped by month`](https://console.cloud.google.com/bigquery?sq=293581156789:725ddff1a48f4356b2223481727aea55)
