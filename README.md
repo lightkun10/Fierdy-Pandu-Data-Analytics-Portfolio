@@ -71,3 +71,7 @@ This is a repository to showcase skills, share projects and track my progress in
 **Visualization - Looker Data Studio:** [`Airbnb Singapore Vis`](https://datastudio.google.com/reporting/eeed99b1-ecf8-4c86-8703-3315fe047c9d)    
 **Skills:** Connect and combine/ join datasets, Data formatting, Visualization, Calculated field, Interactive Dashboard       
 
+<!-- KELARIN LAGI YANG INI PLEASEEEEEEEEEEEEEEEEEEE -->
+#### COVID-19 World Vaccination Progress Data Analysis 
+**Visualization:** [`IN-PROGRESS`]      
+**Worksheets:** [`COVID-19 Vaccination Vis`](https://public.tableau.com/views/COVID19VaccinationProgress_16696392858870/RatioofPeopleVaccinatedperPopulation?:language=en-GB&:display_count=n&:origin=viz_share_link)  
