@@ -66,4 +66,4 @@ This is a repository to showcase skills, share projects and track my progress in
 ### Data Visualization <img align="left" alt="Tableau" width="26px" src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" /><img align="left" alt="Looker Data Studio" width="26px" src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" />    
 #### Airbnb Singapore Listing Report Data Analysis
 **Visualization - Tableau:** [`Airbnb Singapore Vis`](https://public.tableau.com/views/AirbnbSingaporeListingReport/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)    
-**Visualization -Looker Data Studio:** [`Airbnb Singapore Vis`](https://datastudio.google.com/reporting/eeed99b1-ecf8-4c86-8703-3315fe047c9d)    
+**Visualization - Looker Data Studio:** [`Airbnb Singapore Vis`](https://datastudio.google.com/reporting/eeed99b1-ecf8-4c86-8703-3315fe047c9d)    
