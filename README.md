@@ -15,14 +15,5 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Projects
 
-### Spreadsheet/ Excel Skill sets:
-* Data Cleaning;
-* Query Table;
-* Pivot Table;
-* Vlookup;
-* Descriptive Statistics;
-* Data Visualization;
-* Gathering Insights;
-* A/B Testing
-#### Deck :
-[Data Cleaning and Processing in Spreadsheet](https://drive.google.com/file/d/1pL3b73PEav3U2CWDvTMt3FXDERvllViS/view?usp=sharing)
+### Property Listings Price in Kuala Lumpur Analysis:
+**Spreadsheet:** [`Property-Listings-Analysis-Kuala-Lumpur`](https://docs.google.com/spreadsheets/d/1o3EXe3WR1OYOScIcTAgNSAhzNnBKYZgAMmZS4zLE40M/edit?usp=sharing)    
