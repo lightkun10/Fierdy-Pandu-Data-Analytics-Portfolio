@@ -17,3 +17,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ### Property Listings Price in Kuala Lumpur Analysis:
 **Spreadsheet:** [`Property-Listings-Analysis-Kuala-Lumpur`](https://docs.google.com/spreadsheets/d/1o3EXe3WR1OYOScIcTAgNSAhzNnBKYZgAMmZS4zLE40M/edit?usp=sharing)    
+**Description:** The dataset contains 4832 records. There is a list of properties with location, price(in RM Malaysia), number of rooms, bathrooms, car parks,	property type, size(of the entire building), furnishing types. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing properties based on location, measuring statistical factors, hypothesis testing.
+**Skills:** data cleaning, data analysis, descriptive statistics, correlation, regression, hypothesis testing  
+**Technology:** Spreadsheet
+**Results:** Review of the property listings in Kuala Lumpur, data-based business recommendations.  
