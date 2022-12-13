@@ -22,8 +22,12 @@ This is a repository to showcase skills, share projects and track my progress in
 <br>**Technology:** Spreadsheet.
 <br>**Results:** Review of the property listings in Kuala Lumpur, data-based business analysis.
 
-<!-- ADDED LATER FINISH BY COMPLETING THE ADVANCE -->
+<!-- ADDED LATER FINISH BY COMPLETING THE ADVANCE 
 ### Fast Food Chains Marketing Campaign Analysis:
 **Spreadsheet:** [`Fast Food Chains Marketing Analysis`](https://docs.google.com/spreadsheets/d/19tdSGq-S_9netp-uWkKs1Jt2-xPQIGObqbJCIHhmi78/edit?usp=share_link)
 <br>**Deck:** [`Fast Food Chains Marketing Analysis`](https://docs.google.com/presentation/d/1XVAYubt93dl585uae-RQfIrZr7v_xbOr8lE73tpBx1E/edit?usp=sharing)
-<br>
+<br>**Description:** The dataset contains 4832 records. There is a list of properties with location, price(in RM Malaysia), number of rooms, bathrooms, car parks,	property type, size(of the entire building), furnishing types. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing properties based on location, measuring statistical factors, hypothesis testing.
+<br>**Skills:** data cleaning, data analysis, descriptive statistics, correlation, regression, hypothesis testing.
+<br>**Technology:** Spreadsheet.
+<br>**Results:** Review of the property listings in Kuala Lumpur, data-based business analysis.
+-->
