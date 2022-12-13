@@ -78,3 +78,8 @@ This is a repository to showcase skills, share projects and track my progress in
 #### COVID-19 World Vaccination Progress Data Analysis 
 **Visualization:** [`IN-PROGRESS`]      
 **Worksheets:** [`COVID-19 Vaccination Vis`](https://public.tableau.com/views/COVID19VaccinationProgress_16696392858870/RatioofPeopleVaccinatedperPopulation?:language=en-GB&:display_count=n&:origin=viz_share_link)  
+
+<br>
+
+### Project Based Analytics
+1. [Retail Store Performance Analysis](https://drive.google.com/file/d/1MKlriq-m8l7C-uEi3HFtuQOpi45r4vsw/view?usp=sharing)
