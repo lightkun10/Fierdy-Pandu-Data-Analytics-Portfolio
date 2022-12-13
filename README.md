@@ -63,4 +63,4 @@ This is a repository to showcase skills, share projects and track my progress in
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.                  
 **Results:** the slide deck with thematic communication campaign analysis and recommendations on how to segment different types of consumers of each type.    
 
-### Data Visualization <img align="left" alt="Tableau" width="26px" src="https://seeklogo.com/images/T/tableau-software-logo-654D12C9BF-seeklogo.com.png" />
+### Data Visualization <img align="left" alt="Tableau" width="26px" src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" />
