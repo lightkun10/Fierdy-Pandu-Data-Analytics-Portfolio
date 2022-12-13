@@ -61,4 +61,4 @@ This is a repository to showcase skills, share projects and track my progress in
 **Description:** Analyzing the current type of mutual bonds data to run a thematic communication campaign for the upcoming government bond investment product with segmenting campaign for each types of consumer.                      
 **Skills:** data cleaning, data preparation, data communication, data aggregation, exploratory data analysis, cluster analysis                 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.                  
-**Results:** the slide deck with thematic communication campaign analysis and recommendations on how to segment different types of consumen of each types.    
+**Results:** the slide deck with thematic communication campaign analysis and recommendations on how to segment different types of consumers of each type.    
