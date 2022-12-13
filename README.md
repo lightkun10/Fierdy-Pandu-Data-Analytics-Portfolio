@@ -49,3 +49,4 @@ This is a repository to showcase skills, share projects and track my progress in
 - [`Get the top 5 least and most profitable product over all time`](https://console.cloud.google.com/bigquery?sq=293581156789:685a2265972e42c2990f3d5ecb7f4d21)
 - [`Get Month to Date of total profit in each product categories of past 3 months, breakdown by month and categories`](https://console.cloud.google.com/bigquery?sq=293581156789:0e654ea6c817411ca96fae11a2181e05)
 - [`Find monthly growth of inventory in percentage breakdown by product categories, ordered by time descendingly. Insight provided in the slides`](https://console.cloud.google.com/bigquery?sq=293581156789:bb4a1f9abe9c4f0ab603384c5c93dd67)
+<!-- YANG PERTANYAAN KE 7 KERJAKAN BUAT DIISI DISINI YE -->
