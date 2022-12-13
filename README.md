@@ -15,7 +15,8 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Projects
 
-<img align="left" alt="Spreadsheet" height="26px" src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" />###Spreadsheet
+<img align="left" alt="Spreadsheet" height="26px" src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" />
+###Spreadsheet
 
 #### Property Listings Price in Kuala Lumpur Analysis:
 **Spreadsheet:** [`Property-Listings-Analysis-Kuala-Lumpur`](https://docs.google.com/spreadsheets/d/1o3EXe3WR1OYOScIcTAgNSAhzNnBKYZgAMmZS4zLE40M/edit?usp=sharing)    
