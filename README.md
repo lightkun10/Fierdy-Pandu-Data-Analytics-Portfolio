@@ -67,3 +67,5 @@ This is a repository to showcase skills, share projects and track my progress in
 #### Airbnb Singapore Listing Report Data Analysis
 **Visualization - Tableau:** [`Airbnb Singapore Vis`](https://public.tableau.com/views/AirbnbSingaporeListingReport/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)    
 **Visualization - Looker Data Studio:** [`Airbnb Singapore Vis`](https://datastudio.google.com/reporting/eeed99b1-ecf8-4c86-8703-3315fe047c9d)    
+**Skills:** Connect and combine/ join datasets, Data formatting, Visualization, Calculated field, Interactive Dashboard       
+
