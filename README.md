@@ -25,4 +25,5 @@ This is a repository to showcase skills, share projects and track my progress in
 <!-- ADDED LATER FINISH BY COMPLETING THE ADVANCE -->
 ### Fast Food Chains Marketing Campaign Analysis:
 **Spreadsheet:** [`Fast Food Chains Marketing Analysis`](https://docs.google.com/spreadsheets/d/19tdSGq-S_9netp-uWkKs1Jt2-xPQIGObqbJCIHhmi78/edit?usp=share_link)
-**Deck:** [`Fast Food Chains Marketing Analysis`](https://docs.google.com/presentation/d/1XVAYubt93dl585uae-RQfIrZr7v_xbOr8lE73tpBx1E/edit?usp=sharing)    
+<br>**Deck:** [`Fast Food Chains Marketing Analysis`](https://docs.google.com/presentation/d/1XVAYubt93dl585uae-RQfIrZr7v_xbOr8lE73tpBx1E/edit?usp=sharing)
+<br>
