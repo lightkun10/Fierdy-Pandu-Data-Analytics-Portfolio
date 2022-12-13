@@ -4,11 +4,12 @@ Hi! I'm Fierdy Pandu Setiawan, you can call me Pandu. I will guide you through m
 
 ## About
 
-Hi, I'm Alex! I have a technical background and hold a Master of Science (M.S.) degree in geoscience (Saint Petersburg Mining University), majoring in Seismic Data Processing and Analysis. I had worked for 12 years in geoscience playing roles as Data Processing Engineer, Head of Department and CTO in a technological startup. After one year of transition from geoscience to Data Analysis, I'm Data Analyst in a Fintech company since June 2021.    
-Achieved the 7th place at an open Data Analyst 2021 competition held by [Career Factory.](https://contest.careerfactory.ru/contest_inside/1618853698875x612895580932538400)    
+I have an academic background and hold a Bachelor of Communication Sciences degree in Communication Sciences (Pasundan University, Bandung). Previously a Promotion/Marketing Staff from a manufactures electronic products company based from Japan for 1 year. My passions in technology, data, information, and how all of those combined are become crucial in the current global trend drives me to self-taught programming without prior Computer related background before. 
 
-My article on Habr on matching two open data datasets with help of ML ---> [go to the article..](https://habr.com/ru/company/tochka/blog/699490/)    
+With my previous background that handles communication and communicating ideas, Planning and Organizing events and promotion events to gain brand awareness, leading teams combined with skills that I have gain such as programming and Data Analyst from various sources either by self-taught and through courses I can leverage data analytical skills to improve corporate performance.
 
 <br>
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.  
 <br>
+
+
