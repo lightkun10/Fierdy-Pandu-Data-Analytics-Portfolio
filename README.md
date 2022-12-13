@@ -36,7 +36,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 <br>
 
-###<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />SQL
+### SQL <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 #### E-commerce Clothing Site Data Analysis:
 **Code:** [`TheLook Query`](https://console.cloud.google.com/bigquery?sq=293581156789:567b69336f56478eb130a5a8341998cf)
 <br>**Deck:** [`TheLook Spreadsheet`](https://docs.google.com/presentation/d/1PVNcxc0JzbX_6cmbycSERKBRtDSuea91Ihg5GvzHqmk/edit?usp=sharing)
