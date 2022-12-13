@@ -55,5 +55,10 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ### Python <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 #### Mutual Fund Investment Data Analysis
+<!-- NANTI KERJAIN YG ADVANCE BUAT UPGRADE YANG INI OCEEEEE -->
 **Code:** [`Mutual Fund Dataset`](https://github.com/lightkun10/Mutual-Fund-Investment-Analysis/blob/main/w8.ipynb)    
 **Deck:** [`Mutual Fund Sheet`](https://docs.google.com/presentation/d/1kPz4qbXkzFB17iBCI63AJnUn6uXv3Z87UOyxzPFjjkQ/edit?usp=sharing)
+**Description:** Analyzing the current type of mutual bonds data to run a thematic communication campaign for the upcoming government bond investment product with segmenting campaign for each types of consumer.
+**Skills:** data cleaning, data preparation, data communication, data aggregation, exploratory data analysis, cluster analysis
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
+**Results:** the slide deck with thematic communication campaign analysis and recommendations on how to segment different types of consumen of each types. 
