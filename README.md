@@ -82,4 +82,4 @@ This is a repository to showcase skills, share projects and track my progress in
 <br>
 
 ### Project Based Analytics
-1. [Retail Store Performance Analysis](https://drive.google.com/file/d/1MKlriq-m8l7C-uEi3HFtuQOpi45r4vsw/view?usp=sharing)
+1. [Retail Store Performance Analysis](https://docs.google.com/presentation/d/1G3akE3WtN9jHIEbAESlL9tQHnvU9p4Dz/edit?usp=sharing&ouid=105754963600142109345&rtpof=true&sd=true)
