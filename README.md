@@ -45,3 +45,5 @@ This is a repository to showcase skills, share projects and track my progress in
 - [`Get the number of unique users, number of orders, and total sale price status and month`](https://docs.google.com/presentation/d/1PVNcxc0JzbX_6cmbycSERKBRtDSuea91Ihg5GvzHqmk/edit?usp=sharing)
 - [`Get frequencies, average order value and total number of unique users where status is complete grouped by month`](https://console.cloud.google.com/bigquery?sq=293581156789:725ddff1a48f4356b2223481727aea55)
 - [`Find user id, email, first and last name of users whose status is refunded on August 2022`](https://console.cloud.google.com/bigquery?sq=293581156789:a6ca28f9368d43a7a77821b5bb6f0fae)
+- [`Get the top 5 least and most profitable product over all time`](https://console.cloud.google.com/bigquery?sq=293581156789:685a2265972e42c2990f3d5ecb7f4d21)
+- [`Get Month to Date of total profit in each product categories of past 3 months, breakdown by month and categories`](https://console.cloud.google.com/bigquery?sq=293581156789:0e654ea6c817411ca96fae11a2181e05)
