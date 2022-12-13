@@ -40,7 +40,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ### E-commerce Clothing Site Data Analysis:
 **Code:** [`TheLook Query`](https://console.cloud.google.com/bigquery?sq=293581156789:567b69336f56478eb130a5a8341998cf)
 <br>**Deck:** [`TheLook Spreadsheet`](https://docs.google.com/presentation/d/1PVNcxc0JzbX_6cmbycSERKBRtDSuea91Ihg5GvzHqmk/edit?usp=sharing)
-<br>**Description:** 
+<br>**Description:** My submission for The Look Ecommerce SQL problem for Revou bootcamp
 <br>**Skills:** Standard Query Syntax, SQL Aggregate Functions, SQL Joins, SQL Data Type, SQL Date Format, SQL Window Function.
 <br>**Queries:**
 - [`Get the number of unique users, number of orders, and total sale price status and month`](https://docs.google.com/presentation/d/1PVNcxc0JzbX_6cmbycSERKBRtDSuea91Ihg5GvzHqmk/edit?usp=sharing)
