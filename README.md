@@ -34,6 +34,7 @@ This is a repository to showcase skills, share projects and track my progress in
 <br>**Results:** Review of the property listings in Kuala Lumpur, data-based business analysis.
 -->
 
+<br>
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />SQL<br>
 ### E-commerce Clothing Site Data Analysis:
