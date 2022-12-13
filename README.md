@@ -50,3 +50,5 @@ This is a repository to showcase skills, share projects and track my progress in
 - [`Get Month to Date of total profit in each product categories of past 3 months, breakdown by month and categories`](https://console.cloud.google.com/bigquery?sq=293581156789:0e654ea6c817411ca96fae11a2181e05)
 - [`Find monthly growth of inventory in percentage breakdown by product categories, ordered by time descendingly. Insight provided in the slides`](https://console.cloud.google.com/bigquery?sq=293581156789:bb4a1f9abe9c4f0ab603384c5c93dd67)
 <!-- YANG PERTANYAAN KE 7 KERJAKAN BUAT DIISI DISINI YE -->
+<br>**Technology:** SQL, Google BigQuery, Google Sheets, Google Slides     
+**Results:** the slide deck with SQL analysis and recommendations on how to improve the cost of production, better inventory planning and management. 
