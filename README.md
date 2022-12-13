@@ -20,4 +20,4 @@ This is a repository to showcase skills, share projects and track my progress in
 **Description:** The dataset contains 4832 records. There is a list of properties with location, price(in RM Malaysia), number of rooms, bathrooms, car parks,	property type, size(of the entire building), furnishing types. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing properties based on location, measuring statistical factors, hypothesis testing.
 <br>**Skills:** data cleaning, data analysis, descriptive statistics, correlation, regression, hypothesis testing.
 <br>**Technology:** Spreadsheet.
-<br>**Results:** Review of the property listings in Kuala Lumpur, data-based business recommendations.
+<br>**Results:** Review of the property listings in Kuala Lumpur, data-based business analysis.
