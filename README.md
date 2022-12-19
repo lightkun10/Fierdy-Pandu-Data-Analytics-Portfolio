@@ -77,7 +77,7 @@ This is a repository to showcase skills, share projects and track my progress in
 <!-- KELARIN LAGI YANG INI PLEASEEEEEEEEEEEEEEEEEEE -->
 #### COVID-19 World Vaccination Progress Data Analysis 
 **Deck:** [`COVID-19 Vaccination Deck`](https://www.canva.com/design/DAFVK98SCTY/NennN-4cm9e1iT1o0Bytsg/view?utm_content=DAFVK98SCTY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)   
-**Dashboard:** [`COVID-19 Vaccination Dashboard`]([https://public.tableau.com/views/COVID19VaccinationProgress_16696392858870/RatioofPeopleVaccinatedperPopulation?:language=en-GB&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/COVID19VaccinationProgress_16696392858870/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link))  
+**Dashboard:** [`COVID-19 Vaccination Dashboard`](https://public.tableau.com/views/COVID19VaccinationProgress_16696392858870/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 <br>
 
