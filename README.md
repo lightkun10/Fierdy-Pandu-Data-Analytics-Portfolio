@@ -62,7 +62,12 @@ This is a repository to showcase skills, share projects and track my progress in
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.                  
 **Results:** the slide deck with thematic communication campaign analysis and recommendations on how to segment different types of consumers of each type.    
 
-#### Mutual Fund Investment Data Analysis  
+#### Mutual Fund Investment Data Analysis - Later Development  
+**Code:** [`Mutual Fund Dataset`](https://github.com/lightkun10/Mutual-Fund-Investment-Analysis-Advance/blob/main/seeds.ipynb)    
+**Deck:** [`Mutual Fund Sheet`](<!-- PUT LINK HERE PLSSSS -->)     
+**Description:** Further analyzing the previous type of mutual bonds data to better understand customer behavior so that we can make better-tailored campaigns to a few different relevant customer segments by using customer clustering methods based on transaction behavior and demographic factors.  
+**Skills:** data cleaning, data preparation, data communication, data aggregation, exploratory data analysis, cluster analysis, Regression, Regression Model, Benefit Cost Analysis                 
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.   
 
 
 <br>
