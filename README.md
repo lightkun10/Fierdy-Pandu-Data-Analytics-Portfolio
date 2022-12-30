@@ -2,7 +2,7 @@
  
 Hi! I'm Fierdy Pandu Setiawan, you can call me Pandu. I will guide you through my Portfolio from here.
 
-## About
+## About Me
 
 I have an academic background and hold a Bachelor of Communication Sciences degree in Communication Sciences (Pasundan University, Bandung). Previously a Promotion/Marketing Staff in Sharp Corporation, an electronic products manufacturing company based in Japan for 1 year. My passions in technology, data, and information, and how all of those combined have become crucial in the current global trend, drive me to self-taught programming without a prior Computer related background.
 
